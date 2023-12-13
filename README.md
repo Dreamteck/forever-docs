@@ -1,5 +1,5 @@
 # forever-docs
-The documentation for Dreamteck Forever plugin in Markdown
+The documentation for the Dreamteck Forever plugin in Markdown
 
 # Install Guide
 
